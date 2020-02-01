@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\_enum\bin\Debug\_enum.exe.config
+C:\Users\mkaze\source\repos\_enum\bin\Debug\_enum.exe
+C:\Users\mkaze\source\repos\_enum\bin\Debug\_enum.pdb
+C:\Users\mkaze\source\repos\_enum\obj\Debug\_enum.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\_enum\obj\Debug\_enum.exe
+C:\Users\mkaze\source\repos\_enum\obj\Debug\_enum.pdb
