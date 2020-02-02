@@ -1,0 +1,6 @@
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Constructor\bin\Debug\_Constructor.exe.config
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Constructor\bin\Debug\_Constructor.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Constructor\bin\Debug\_Constructor.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Constructor\obj\Debug\_Constructor.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Constructor\obj\Debug\_Constructor.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Constructor\obj\Debug\_Constructor.pdb
