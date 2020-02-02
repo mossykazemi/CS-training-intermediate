@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\_paramsExample\bin\Debug\_paramsExample.exe.config
+C:\Users\mkaze\source\repos\_paramsExample\bin\Debug\_paramsExample.exe
+C:\Users\mkaze\source\repos\_paramsExample\bin\Debug\_paramsExample.pdb
+C:\Users\mkaze\source\repos\_paramsExample\obj\Debug\_paramsExample.exe
+C:\Users\mkaze\source\repos\_paramsExample\obj\Debug\_paramsExample.pdb
