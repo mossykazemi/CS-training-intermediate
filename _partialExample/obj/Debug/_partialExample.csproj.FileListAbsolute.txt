@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\_partialExample\bin\Debug\_partialExample.exe.config
+C:\Users\mkaze\source\repos\_partialExample\bin\Debug\_partialExample.exe
+C:\Users\mkaze\source\repos\_partialExample\bin\Debug\_partialExample.pdb
+C:\Users\mkaze\source\repos\_partialExample\obj\Debug\_partialExample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\_partialExample\obj\Debug\_partialExample.exe
+C:\Users\mkaze\source\repos\_partialExample\obj\Debug\_partialExample.pdb
