@@ -22,6 +22,9 @@ namespace _enum
             Directions myDirection = Directions.East;
             Console.WriteLine($"Direction:{myDirection}");
 
+            var mydirection = Directions.West;
+            Console.WriteLine(mydirection);
+
             int code = (int)myDirection;
             Console.WriteLine(code);
 
