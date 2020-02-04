@@ -10,6 +10,7 @@ using you=_nameSpaceExamples.yourNamespace;
 //using _nameSpaceExamples.yourNamespace;
 
 // using whith (my) keyword
+// using whith (you) keyword
 
 namespace _nameSpaceExamples
 {
