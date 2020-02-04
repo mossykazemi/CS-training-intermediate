@@ -9,7 +9,7 @@ using you=_nameSpaceExamples.yourNamespace;
 //using _nameSpaceExamples.myNamespace;
 //using _nameSpaceExamples.yourNamespace;
 
-// using mikonim ba kalameye my
+// using whith (my) keyword
 
 namespace _nameSpaceExamples
 {
