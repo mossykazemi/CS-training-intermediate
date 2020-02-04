@@ -18,7 +18,10 @@ namespace _nameSpaceExamples
         static void Main(string[] args)
         {
             my.Rectangle r1 = new my.Rectangle();
+            r1.ln = 10;
             you.Rectangle r2 = new you.Rectangle();
+            r2.ln = 10;
+
             // r1 azayi dare ke r2 nadare
         }
     }
