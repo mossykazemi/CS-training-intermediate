@@ -21,6 +21,8 @@ namespace _paramsExample
         //    return (x + y + c + z) / 4;
         //}
 
+
+            //Using Params keyword instead of Overloading
         public double Average(params double [] numbers)
         {
             double sum = 0;
@@ -28,7 +30,7 @@ namespace _paramsExample
             {
                 sum += numbers[i];
             }
-            return sum / numbers.Length;
+            return sum / numbers.Length; 
         }
     }
 }
