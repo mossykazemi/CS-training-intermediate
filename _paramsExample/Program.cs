@@ -11,6 +11,7 @@ namespace _paramsExample
         static void Main(string[] args)
         {
             Parameters c1 = new Parameters();
+
             double[] myArray = { 12.5, 13, 14, 18 };
             Console.WriteLine(c1.Average(myArray));
 
