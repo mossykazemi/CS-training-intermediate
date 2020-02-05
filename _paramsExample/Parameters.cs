@@ -28,9 +28,9 @@ namespace _paramsExample
             double sum = 0;
             for(int i = 0; i < numbers.Length; i++)
             {
-                sum += numbers[i];
+                sum += numbers[i];// sum of members of array
             }
-            return sum / numbers.Length; 
+            return sum / numbers.Length; //get average
         }
     }
 }
