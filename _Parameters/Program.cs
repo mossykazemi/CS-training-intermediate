@@ -15,11 +15,10 @@ namespace _Parameters
         static void Main(string[] args)
         {
             Parameters p1 = new Parameters();
-            //int x = 10;
-            //p1.passByVal(x);
-            //p1.passByRef(ref x);
-            //Console.WriteLine(x);
-
+            int x = 10;
+            p1.passByVal(x);
+            p1.passByRef(ref x);
+            Console.WriteLine(x);
 
             int a;
             p1.passByOut(out a);
