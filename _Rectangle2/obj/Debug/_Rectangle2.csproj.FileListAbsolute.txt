@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\_Rectangle2\bin\Debug\_Rectangle2.exe.config
+C:\Users\mkaze\source\repos\_Rectangle2\bin\Debug\_Rectangle2.exe
+C:\Users\mkaze\source\repos\_Rectangle2\bin\Debug\_Rectangle2.pdb
+C:\Users\mkaze\source\repos\_Rectangle2\obj\Debug\_Rectangle2.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\_Rectangle2\obj\Debug\_Rectangle2.exe
+C:\Users\mkaze\source\repos\_Rectangle2\obj\Debug\_Rectangle2.pdb
