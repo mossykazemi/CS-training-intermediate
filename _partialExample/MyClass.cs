@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _partialExample
 {
+    //using partial keyword
     partial class MyClass
     {
         public void Method1()
