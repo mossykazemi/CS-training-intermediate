@@ -36,13 +36,13 @@ namespace _Rectangle
             return 2 * (length + breadth);
         }
         public void GetLength()
-        {
+        {//get length and set it
             Console.WriteLine("Enter length");
             int a = Convert.ToInt32(Console.ReadLine());
             SetLength(a);
         }
         public void GetBreadth()
-        {
+        {//get breadth and set it
             Console.WriteLine("Enter Breadth");
             int b = Convert.ToInt32(Console.ReadLine());
             SetBreadth(b);
