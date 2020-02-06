@@ -19,7 +19,7 @@ namespace _Rectangle
             //r1.SetBreadth(b);
             //Console.WriteLine(r1.GetArea());
 
-
+            //this way is better 
             Rectangle r1 = new Rectangle();
             r1.GetBreadth();
             r1.GetLength();
