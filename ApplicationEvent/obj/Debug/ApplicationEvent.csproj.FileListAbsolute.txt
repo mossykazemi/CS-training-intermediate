@@ -1,0 +1,9 @@
+C:\Users\mkaze\source\repos\ApplicationEvent\obj\Debug\ApplicationEvent.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\ApplicationEvent\obj\Debug\ApplicationEvent.Form1.resources
+C:\Users\mkaze\source\repos\ApplicationEvent\obj\Debug\ApplicationEvent.Properties.Resources.resources
+C:\Users\mkaze\source\repos\ApplicationEvent\obj\Debug\ApplicationEvent.csproj.GenerateResource.cache
+C:\Users\mkaze\source\repos\ApplicationEvent\bin\Debug\ApplicationEvent.exe.config
+C:\Users\mkaze\source\repos\ApplicationEvent\bin\Debug\ApplicationEvent.exe
+C:\Users\mkaze\source\repos\ApplicationEvent\bin\Debug\ApplicationEvent.pdb
+C:\Users\mkaze\source\repos\ApplicationEvent\obj\Debug\ApplicationEvent.exe
+C:\Users\mkaze\source\repos\ApplicationEvent\obj\Debug\ApplicationEvent.pdb
