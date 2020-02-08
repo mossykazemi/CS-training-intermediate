@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\_Struct\bin\Debug\_Struct.exe.config
+C:\Users\mkaze\source\repos\_Struct\bin\Debug\_Struct.exe
+C:\Users\mkaze\source\repos\_Struct\bin\Debug\_Struct.pdb
+C:\Users\mkaze\source\repos\_Struct\obj\Debug\_Struct.exe
+C:\Users\mkaze\source\repos\_Struct\obj\Debug\_Struct.pdb
