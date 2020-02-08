@@ -47,7 +47,7 @@ namespace _Recangle3
             SetBreadth(b);
         }
         public void SetDiamentions(int length, int breadth)
-        {
+        {// to set the diamentions in the main program 
             this.length = length;
             this.breadth = breadth;
         }
