@@ -12,7 +12,7 @@ namespace _Rectangle2
         {
             Rectangle r1 = new Rectangle();
             Rectangle r2;
-            r2 = r1;
+            r2 = r1;// set r1 equal to r2
             r1.SetLength(10);
             r2.SetBreadth(20);
             Console.WriteLine(r1.GetArea());
