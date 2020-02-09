@@ -3,3 +3,9 @@ C:\Users\mkaze\source\repos\_Struct\bin\Debug\_Struct.exe
 C:\Users\mkaze\source\repos\_Struct\bin\Debug\_Struct.pdb
 C:\Users\mkaze\source\repos\_Struct\obj\Debug\_Struct.exe
 C:\Users\mkaze\source\repos\_Struct\obj\Debug\_Struct.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Struct\bin\Debug\_Struct.exe.config
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Struct\bin\Debug\_Struct.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Struct\bin\Debug\_Struct.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Struct\obj\Debug\_Struct.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Struct\obj\Debug\_Struct.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\_Struct\obj\Debug\_Struct.pdb

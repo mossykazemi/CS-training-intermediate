@@ -9,7 +9,7 @@ namespace _Struct
     class Program
     {
         public struct Employee
-        {
+        {//Struct
             public string name;
             public int age;
             public double salary;
