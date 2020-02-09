@@ -9,7 +9,7 @@ namespace AgeAndHeight
     class Program
     {
         static void showPerson(int age,int height)
-        {
+        {//two parameters
             Console.WriteLine($"Age is :{age}");
             Console.WriteLine($"Height is :{height}");
         }

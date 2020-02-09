@@ -1,0 +1,6 @@
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\AgeAndHeight\bin\Debug\AgeAndHeight.exe.config
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\AgeAndHeight\bin\Debug\AgeAndHeight.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\AgeAndHeight\bin\Debug\AgeAndHeight.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\AgeAndHeight\obj\Debug\AgeAndHeight.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\AgeAndHeight\obj\Debug\AgeAndHeight.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\AgeAndHeight\obj\Debug\AgeAndHeight.pdb
