@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\CalculateSumExample\bin\Debug\CalculateSumExample.exe.config
+C:\Users\mkaze\source\repos\CalculateSumExample\bin\Debug\CalculateSumExample.exe
+C:\Users\mkaze\source\repos\CalculateSumExample\bin\Debug\CalculateSumExample.pdb
+C:\Users\mkaze\source\repos\CalculateSumExample\obj\Debug\CalculateSumExample.exe
+C:\Users\mkaze\source\repos\CalculateSumExample\obj\Debug\CalculateSumExample.pdb
