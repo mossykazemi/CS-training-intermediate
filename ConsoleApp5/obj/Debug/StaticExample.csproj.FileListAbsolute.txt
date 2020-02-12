@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\mkaze\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\mkaze\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\mkaze\source\repos\ConsoleApp5\obj\Debug\StaticExample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\mkaze\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
