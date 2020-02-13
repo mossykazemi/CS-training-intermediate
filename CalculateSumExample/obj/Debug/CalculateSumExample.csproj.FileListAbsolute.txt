@@ -3,3 +3,9 @@ C:\Users\mkaze\source\repos\CalculateSumExample\bin\Debug\CalculateSumExample.ex
 C:\Users\mkaze\source\repos\CalculateSumExample\bin\Debug\CalculateSumExample.pdb
 C:\Users\mkaze\source\repos\CalculateSumExample\obj\Debug\CalculateSumExample.exe
 C:\Users\mkaze\source\repos\CalculateSumExample\obj\Debug\CalculateSumExample.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\CalculateSumExample\bin\Debug\CalculateSumExample.exe.config
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\CalculateSumExample\bin\Debug\CalculateSumExample.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\CalculateSumExample\bin\Debug\CalculateSumExample.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\CalculateSumExample\obj\Debug\CalculateSumExample.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\CalculateSumExample\obj\Debug\CalculateSumExample.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\CalculateSumExample\obj\Debug\CalculateSumExample.pdb
