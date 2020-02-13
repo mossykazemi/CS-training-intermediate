@@ -4,3 +4,9 @@ C:\Users\mkaze\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Users\mkaze\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\mkaze\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
 C:\Users\mkaze\source\repos\ConsoleApp2\obj\Debug\_params.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\ConsoleApp2\obj\Debug\_params.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\mkaze\Documents\GitHub\CS-training-intermediate\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
