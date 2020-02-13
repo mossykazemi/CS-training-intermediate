@@ -8,8 +8,8 @@ namespace CalculateSumExample
 {
     class Program
     {
-        static int calculateSum(int number1,int number2)
-        {
+        static int CalculateSum(int number1,int number2)
+        {//Static method
             return number1 + number2;
         }
         static void Main(string[] args)
@@ -19,7 +19,7 @@ namespace CalculateSumExample
             Console.WriteLine("enter number 2:");
             int y = Convert.ToInt32(Console.ReadLine());
             // we give two argument to the program here 
-            Console.WriteLine(calculateSum(x,y)); 
+            Console.WriteLine(CalculateSum(x,y)); 
             Console.ReadKey();
         }
     }
