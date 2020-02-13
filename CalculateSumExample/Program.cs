@@ -18,7 +18,7 @@ namespace CalculateSumExample
             int x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter number 2:");
             int y = Convert.ToInt32(Console.ReadLine());
-            // inja 2ta arguman be barname nayad bedim dakhele parantez
+            // we give two argument to the program here 
             Console.WriteLine(calculateSum(x,y)); 
             Console.ReadKey();
         }
