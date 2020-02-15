@@ -11,7 +11,7 @@ namespace ConsoleApp4
         int length;
         int breadth;
         public int Length
-        {
+        {//Property
             set
             {
                 length = value;
@@ -22,7 +22,7 @@ namespace ConsoleApp4
             }
         }
         public int Breadth
-        {
+        {//Property
             set
             {
                 breadth = value;

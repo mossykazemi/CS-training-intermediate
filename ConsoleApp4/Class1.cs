@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp4
 {
     public enum Colors
-    {
+    {//Using enum
         black=1,
         red,
         blue,
