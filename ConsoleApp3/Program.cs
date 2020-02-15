@@ -16,6 +16,7 @@ namespace ConsoleApp3
 
             rect1.SetBreadth(-20);
             rect1.SetLength(40);
+
             Console.WriteLine(rect1.GetArea());
             Console.ReadKey();
         }
