@@ -32,9 +32,6 @@ namespace ConsoleApp4
                 return breadth;
             }
         }
-        public Colors ForeColor
-        {
-            set;get;
-        }
+        public Colors ForeColor {set;get;}
     }
 }

@@ -22,7 +22,7 @@ namespace ConsoleApp4
             Console.Clear();
 
             Console.WriteLine(r1.ForeColor);
-            Console.WriteLine((int)r1.ForeColor);
+            Console.WriteLine((int)r1.ForeColor);//cast to int
 
 
             Console.ReadKey();
