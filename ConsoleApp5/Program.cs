@@ -11,7 +11,7 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             // static is Shared memory
-            //MyClass.b = 30;
+            // MyClass.b = 30;
             MyClass obj1 = new MyClass();
             obj1.a = 10;
             MyClass obj2 = new MyClass();
@@ -19,8 +19,8 @@ namespace ConsoleApp5
             MyClass obj3 = new MyClass();
             obj3.a = 30;
 
-            //MyClass.b = 100;
-            //inja 100 override shod
+            // MyClass.b = 100;
+            // 100 is Override here
 
             obj1.SetB(200);
             MyClass.ShowB();

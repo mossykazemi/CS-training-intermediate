@@ -13,13 +13,13 @@ namespace ConsoleApp5
         public void SetB(int n)
         {
             b = n;
-            //baraye inke meghdar az karbar gerefte shavad
+            //Get value from user
         }
         public static void ShowB()
         {
             Console.WriteLine(b);
         }
-        //azaye static ham dar method haye mamoli ghabele dastressi hastan ham dar static ha
-        //ama azaye mamoli faghat dar method haye mamoli ghabel dastress hastan
+        //Static methods can be use in both static methods and normal methods
+        //But normal Methods are only can be used in normal Methods
     }
 }
