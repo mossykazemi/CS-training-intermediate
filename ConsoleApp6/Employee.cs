@@ -9,7 +9,7 @@ namespace ConsoleApp6
     class Employee:Person
     {
         public double Salary;
-        //sazande be dune estefade az kalameye this
+        //Constructor without using this keyword
         public Employee(string fn,int a,double sa) : base(fn, a)
         {
             Salary = sa;

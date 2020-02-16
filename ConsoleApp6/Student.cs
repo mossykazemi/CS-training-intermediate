@@ -20,11 +20,11 @@ namespace ConsoleApp6
             id = n;
         }
 
-        // kalameye base mire fn va a ro az kelase asli maire va set mikone baraye sazande
+        // base key word takes fn from base class and gives it to derived class
         public Student(string fn,int a,int id) : base(fn, a)
         {
             this.id = id;
-            // this ro be kar bordim chon id va id ham naam hastan
+            // we use this because id and id have the same name here
         }
         public bool Eligible()
         {
