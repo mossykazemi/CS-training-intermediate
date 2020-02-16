@@ -32,8 +32,8 @@ namespace ConsoleApp6
         {
 
         }
-        // private ha be ers borde mishan ama ghable dastressi nistan
-        // private haro mishe ba sakhtane Property ghabele dastress kard
+        // private members are inherited but not accessible
+        // we can access private members by using Property
         public int Age
         {
             set
