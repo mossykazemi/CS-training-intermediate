@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
@@ -19,6 +15,7 @@ namespace ConsoleApp7
         {
             Console.WriteLine("Say Hello in Class B");
         }
+
         //public override void SayHello()
         //{
         //    base.SayHello();
