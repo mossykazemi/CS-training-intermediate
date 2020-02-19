@@ -1,0 +1,12 @@
+C:\Users\mkaze\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mkaze\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mkaze\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mkaze\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mkaze\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mkaze\source\repos\_Class of C# (Naderi)\CS day one\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mkaze\source\repos\_Class of C# (Naderi)\CS day one\bin\Debug\ConsoleApp1.exe
+C:\Users\mkaze\source\repos\_Class of C# (Naderi)\CS day one\bin\Debug\ConsoleApp1.pdb
+C:\Users\mkaze\source\repos\_Class of C# (Naderi)\CS day one\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\_Class of C# (Naderi)\CS day one\obj\Debug\ConsoleApp1.exe
+C:\Users\mkaze\source\repos\_Class of C# (Naderi)\CS day one\obj\Debug\ConsoleApp1.pdb
