@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS5- DistanceConverter", "CS5- DistanceConverter\CS5- DistanceConverter.csproj", "{877D2758-7DA2-4B77-A4A8-33F65E1CFA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitBowl", "..\..\FruitBowl\FruitBowl.csproj", "{DBDE099E-71C7-4C24-9374-367CDF0FAF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877D2758-7DA2-4B77-A4A8-33F65E1CFA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877D2758-7DA2-4B77-A4A8-33F65E1CFA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877D2758-7DA2-4B77-A4A8-33F65E1CFA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877D2758-7DA2-4B77-A4A8-33F65E1CFA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDE099E-71C7-4C24-9374-367CDF0FAF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDE099E-71C7-4C24-9374-367CDF0FAF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDE099E-71C7-4C24-9374-367CDF0FAF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDE099E-71C7-4C24-9374-367CDF0FAF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E8561F-F316-435C-A8F3-0F595FED18D9}
+	EndGlobalSection
+EndGlobal

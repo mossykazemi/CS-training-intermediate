@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\CS5- DistanceConverter\CS5- DistanceConverter\bin\Debug\CS5- DistanceConverter.exe.config
+C:\Users\mkaze\source\repos\CS5- DistanceConverter\CS5- DistanceConverter\bin\Debug\CS5- DistanceConverter.exe
+C:\Users\mkaze\source\repos\CS5- DistanceConverter\CS5- DistanceConverter\bin\Debug\CS5- DistanceConverter.pdb
+C:\Users\mkaze\source\repos\CS5- DistanceConverter\CS5- DistanceConverter\obj\Debug\CS5- DistanceConverter.exe
+C:\Users\mkaze\source\repos\CS5- DistanceConverter\CS5- DistanceConverter\obj\Debug\CS5- DistanceConverter.pdb
+C:\Users\mkaze\source\repos\CS5- DistanceConverter\CS5- DistanceConverter\obj\Debug\CS5- DistanceConverter.csprojAssemblyReference.cache
