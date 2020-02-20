@@ -21,9 +21,9 @@ namespace CS5
             obj1.SetB(200);
             MyClass.ShowB();
 
-            //Console.WriteLine($"value of a:{obj1.a} and value of b:{MyClass.b}");
-            //Console.WriteLine($"value of a:{obj2.a} and value of b:{MyClass.b}");
-            //Console.WriteLine($"value of a:{obj3.a} and value of b:{MyClass.b}");
+            Console.WriteLine($"value of a:{obj1.a} and value of b:{MyClass.b}");
+            Console.WriteLine($"value of a:{obj2.a} and value of b:{MyClass.b}");
+            Console.WriteLine($"value of a:{obj3.a} and value of b:{MyClass.b}");
             Console.ReadKey();
         }
     }

@@ -1,6 +1,0 @@
-C:\Users\mkaze\source\repos\CS5\CS5\bin\Debug\CS5.exe.config
-C:\Users\mkaze\source\repos\CS5\CS5\bin\Debug\CS5.exe
-C:\Users\mkaze\source\repos\CS5\CS5\bin\Debug\CS5.pdb
-C:\Users\mkaze\source\repos\CS5\CS5\obj\Debug\CS5.csprojAssemblyReference.cache
-C:\Users\mkaze\source\repos\CS5\CS5\obj\Debug\CS5.exe
-C:\Users\mkaze\source\repos\CS5\CS5\obj\Debug\CS5.pdb
