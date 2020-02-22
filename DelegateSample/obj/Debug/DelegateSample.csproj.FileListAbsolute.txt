@@ -1,0 +1,9 @@
+C:\Users\mkaze\source\repos\DelegateSample\bin\Debug\DelegateSample.exe.config
+C:\Users\mkaze\source\repos\DelegateSample\bin\Debug\DelegateSample.exe
+C:\Users\mkaze\source\repos\DelegateSample\bin\Debug\DelegateSample.pdb
+C:\Users\mkaze\source\repos\DelegateSample\obj\Debug\DelegateSample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\DelegateSample\obj\Debug\DelegateSample.Form1.resources
+C:\Users\mkaze\source\repos\DelegateSample\obj\Debug\DelegateSample.Properties.Resources.resources
+C:\Users\mkaze\source\repos\DelegateSample\obj\Debug\DelegateSample.csproj.GenerateResource.cache
+C:\Users\mkaze\source\repos\DelegateSample\obj\Debug\DelegateSample.exe
+C:\Users\mkaze\source\repos\DelegateSample\obj\Debug\DelegateSample.pdb
