@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\DateProject\bin\Debug\DateProject.exe.config
+C:\Users\mkaze\source\repos\DateProject\bin\Debug\DateProject.exe
+C:\Users\mkaze\source\repos\DateProject\bin\Debug\DateProject.pdb
+C:\Users\mkaze\source\repos\DateProject\obj\Debug\DateProject.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\DateProject\obj\Debug\DateProject.exe
+C:\Users\mkaze\source\repos\DateProject\obj\Debug\DateProject.pdb
