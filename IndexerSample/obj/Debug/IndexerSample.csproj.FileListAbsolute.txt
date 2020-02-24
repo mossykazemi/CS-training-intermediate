@@ -1,0 +1,9 @@
+C:\Users\mkaze\source\repos\IndexerSample\bin\Debug\IndexerSample.exe.config
+C:\Users\mkaze\source\repos\IndexerSample\bin\Debug\IndexerSample.exe
+C:\Users\mkaze\source\repos\IndexerSample\bin\Debug\IndexerSample.pdb
+C:\Users\mkaze\source\repos\IndexerSample\obj\Debug\IndexerSample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\IndexerSample\obj\Debug\IndexerSample.Form1.resources
+C:\Users\mkaze\source\repos\IndexerSample\obj\Debug\IndexerSample.Properties.Resources.resources
+C:\Users\mkaze\source\repos\IndexerSample\obj\Debug\IndexerSample.csproj.GenerateResource.cache
+C:\Users\mkaze\source\repos\IndexerSample\obj\Debug\IndexerSample.exe
+C:\Users\mkaze\source\repos\IndexerSample\obj\Debug\IndexerSample.pdb
