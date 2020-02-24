@@ -1,0 +1,9 @@
+C:\Users\mkaze\source\repos\ExeptionHandling\bin\Debug\ExeptionHandling.exe.config
+C:\Users\mkaze\source\repos\ExeptionHandling\bin\Debug\ExeptionHandling.exe
+C:\Users\mkaze\source\repos\ExeptionHandling\bin\Debug\ExeptionHandling.pdb
+C:\Users\mkaze\source\repos\ExeptionHandling\obj\Debug\ExeptionHandling.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\ExeptionHandling\obj\Debug\ExeptionHandling.Form1.resources
+C:\Users\mkaze\source\repos\ExeptionHandling\obj\Debug\ExeptionHandling.Properties.Resources.resources
+C:\Users\mkaze\source\repos\ExeptionHandling\obj\Debug\ExeptionHandling.csproj.GenerateResource.cache
+C:\Users\mkaze\source\repos\ExeptionHandling\obj\Debug\ExeptionHandling.exe
+C:\Users\mkaze\source\repos\ExeptionHandling\obj\Debug\ExeptionHandling.pdb
