@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\DistanceConverterVid\bin\Debug\DistanceConverterVid.exe.config
+C:\Users\mkaze\source\repos\DistanceConverterVid\bin\Debug\DistanceConverterVid.exe
+C:\Users\mkaze\source\repos\DistanceConverterVid\bin\Debug\DistanceConverterVid.pdb
+C:\Users\mkaze\source\repos\DistanceConverterVid\obj\Debug\DistanceConverterVid.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\DistanceConverterVid\obj\Debug\DistanceConverterVid.exe
+C:\Users\mkaze\source\repos\DistanceConverterVid\obj\Debug\DistanceConverterVid.pdb
