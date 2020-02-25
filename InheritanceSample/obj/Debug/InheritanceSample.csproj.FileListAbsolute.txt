@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\InheritanceSample\bin\Debug\InheritanceSample.exe.config
+C:\Users\mkaze\source\repos\InheritanceSample\bin\Debug\InheritanceSample.exe
+C:\Users\mkaze\source\repos\InheritanceSample\bin\Debug\InheritanceSample.pdb
+C:\Users\mkaze\source\repos\InheritanceSample\obj\Debug\InheritanceSample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\InheritanceSample\obj\Debug\InheritanceSample.exe
+C:\Users\mkaze\source\repos\InheritanceSample\obj\Debug\InheritanceSample.pdb
