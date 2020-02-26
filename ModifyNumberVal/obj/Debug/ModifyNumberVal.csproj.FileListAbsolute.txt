@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\ModifyNumberVal\bin\Debug\ModifyNumberVal.exe.config
+C:\Users\mkaze\source\repos\ModifyNumberVal\bin\Debug\ModifyNumberVal.exe
+C:\Users\mkaze\source\repos\ModifyNumberVal\bin\Debug\ModifyNumberVal.pdb
+C:\Users\mkaze\source\repos\ModifyNumberVal\obj\Debug\ModifyNumberVal.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\ModifyNumberVal\obj\Debug\ModifyNumberVal.exe
+C:\Users\mkaze\source\repos\ModifyNumberVal\obj\Debug\ModifyNumberVal.pdb
