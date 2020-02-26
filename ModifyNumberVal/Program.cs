@@ -27,7 +27,7 @@ namespace ModifyNumberVal
             Console.WriteLine("Passing by value to method: ");
             modifyNumberVal(num);
             Console.WriteLine($"Number after passing by value: {num}");
-            // by value yani ma yek copy az number ro darim pass midim be barname
+            // by value Means we pass the program a copy of number
 
             Console.WriteLine("---------------------------------------");
 
