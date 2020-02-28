@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\mkaze\source\repos\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\mkaze\source\repos\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\mkaze\source\repos\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\mkaze\source\repos\OptionalParameters\obj\Debug\OptionalParameters.pdb
