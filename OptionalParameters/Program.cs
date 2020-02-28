@@ -8,7 +8,7 @@ namespace OptionalParameters
 {
     class Program
     {
-        // parametr haye ekhtiari
+        // Optional Parameters
         static void PrintMessage(string message = "Learning C#")
         {
             Console.WriteLine(message);
