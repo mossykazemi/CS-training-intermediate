@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\OptionalParameters2\bin\Debug\OptionalParameters2.exe.config
+C:\Users\mkaze\source\repos\OptionalParameters2\bin\Debug\OptionalParameters2.exe
+C:\Users\mkaze\source\repos\OptionalParameters2\bin\Debug\OptionalParameters2.pdb
+C:\Users\mkaze\source\repos\OptionalParameters2\obj\Debug\OptionalParameters2.exe
+C:\Users\mkaze\source\repos\OptionalParameters2\obj\Debug\OptionalParameters2.pdb
+C:\Users\mkaze\source\repos\OptionalParameters2\obj\Debug\OptionalParameters2.csprojAssemblyReference.cache
