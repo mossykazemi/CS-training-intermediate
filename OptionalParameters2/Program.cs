@@ -19,7 +19,7 @@ namespace OptionalParameters2
         static void Main(string[] args)
         {
             Method(10, 20,d:500);
-            // baraye meghdar dadan be d az ( : ) estefade kardim va be meghdare c dast nazadim
+            // we give value to d by using ( : )   and we didn't give c any value
             Console.ReadKey();
         }
     }
