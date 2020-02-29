@@ -8,7 +8,7 @@ namespace OptionalParameters2
 {
     class Program
     {
-        
+        //Optional Prameters
         static void Method(int a,int b, int c=100,int d = 200)
         {
             Console.WriteLine($"a:{a}");
