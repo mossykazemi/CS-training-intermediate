@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\OutExample\bin\Debug\OutExample.exe.config
+C:\Users\mkaze\source\repos\OutExample\bin\Debug\OutExample.exe
+C:\Users\mkaze\source\repos\OutExample\bin\Debug\OutExample.pdb
+C:\Users\mkaze\source\repos\OutExample\obj\Debug\OutExample.exe
+C:\Users\mkaze\source\repos\OutExample\obj\Debug\OutExample.pdb
