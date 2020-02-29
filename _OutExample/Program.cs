@@ -15,7 +15,7 @@ namespace OutExample
         static void Main(string[] args)
         {
             int num;
-            GetValue(out num);
+            GetValue(out num);// use Out here
             Console.WriteLine($"Number is : {num}");
 
             Console.ReadKey();
