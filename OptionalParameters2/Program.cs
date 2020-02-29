@@ -8,7 +8,8 @@ namespace OptionalParameters2
 {
     class Program
     {
-        static void method(int a,int b, int c=100,int d = 200)
+        
+        static void Method(int a,int b, int c=100,int d = 200)
         {
             Console.WriteLine($"a:{a}");
             Console.WriteLine($"b:{b}");
@@ -17,7 +18,7 @@ namespace OptionalParameters2
         }
         static void Main(string[] args)
         {
-            method(10, 20,d:500);
+            Method(10, 20,d:500);
             // baraye meghdar dadan be d az ( : ) estefade kardim va be meghdare c dast nazadim
             Console.ReadKey();
         }
