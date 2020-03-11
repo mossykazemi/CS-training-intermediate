@@ -33,7 +33,7 @@ namespace Person_Constructor
         //    }
         //}
 
-            //automatic property
+            // Automatic property
             // Prop Tab Tab
         public string Name { get; set; }
         public string Family { get; set; }
