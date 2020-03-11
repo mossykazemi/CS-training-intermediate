@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Person_Constroctor2
 {
-    class Program
+    class Personel
     {
-        static void Main(string[] args)
-        {
-            var Personel = new Personel();
-            Personel.Age = 22;
-        }
+        public int Age { get; set; }
     }
 }
