@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\PolymorphismSample\obj\Debug\PolymorphismSample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\PolymorphismSample\bin\Debug\PolymorphismSample.exe.config
+C:\Users\mkaze\source\repos\PolymorphismSample\bin\Debug\PolymorphismSample.exe
+C:\Users\mkaze\source\repos\PolymorphismSample\bin\Debug\PolymorphismSample.pdb
+C:\Users\mkaze\source\repos\PolymorphismSample\obj\Debug\PolymorphismSample.exe
+C:\Users\mkaze\source\repos\PolymorphismSample\obj\Debug\PolymorphismSample.pdb
