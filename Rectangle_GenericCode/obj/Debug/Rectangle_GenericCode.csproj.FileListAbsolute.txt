@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\Rectangle_GenericCode\bin\Debug\Rectangle_GenericCode.exe.config
+C:\Users\mkaze\source\repos\Rectangle_GenericCode\bin\Debug\Rectangle_GenericCode.exe
+C:\Users\mkaze\source\repos\Rectangle_GenericCode\bin\Debug\Rectangle_GenericCode.pdb
+C:\Users\mkaze\source\repos\Rectangle_GenericCode\obj\Debug\Rectangle_GenericCode.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\Rectangle_GenericCode\obj\Debug\Rectangle_GenericCode.exe
+C:\Users\mkaze\source\repos\Rectangle_GenericCode\obj\Debug\Rectangle_GenericCode.pdb
