@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rectangle_GenericCode
 {
+    //Generic Class
     class Rectangle
     {
         private int length;

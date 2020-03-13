@@ -12,9 +12,12 @@ namespace Rectangle_GenericCode
         {
             Rectangle r1 = new Rectangle();
             r1.GetValues();
+
             bool r = r1.IsSquare;
+
             //r1.Length = -12;
             //r1.Breadth = 15;
+
             Console.WriteLine(r1.GetArea()+"\n"+r);
 
             Console.ReadKey();
