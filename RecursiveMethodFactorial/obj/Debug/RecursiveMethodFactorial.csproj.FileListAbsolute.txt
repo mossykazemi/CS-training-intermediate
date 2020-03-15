@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\RecursiveMethodFactorial\bin\Debug\RecursiveMethodFactorial.exe.config
+C:\Users\mkaze\source\repos\RecursiveMethodFactorial\bin\Debug\RecursiveMethodFactorial.exe
+C:\Users\mkaze\source\repos\RecursiveMethodFactorial\bin\Debug\RecursiveMethodFactorial.pdb
+C:\Users\mkaze\source\repos\RecursiveMethodFactorial\obj\Debug\RecursiveMethodFactorial.exe
+C:\Users\mkaze\source\repos\RecursiveMethodFactorial\obj\Debug\RecursiveMethodFactorial.pdb
