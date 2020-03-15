@@ -8,6 +8,7 @@ namespace RecursiveMethodFactorial
 {
     class Program
     {
+        //Recursive
         static long Factorial(int number)
         {
             if (number == 1)
