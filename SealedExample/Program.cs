@@ -10,7 +10,7 @@ namespace SealedExample
     {
         static void Main(string[] args)
         {
-
+            //Sealed Class
         }
     }
 }
