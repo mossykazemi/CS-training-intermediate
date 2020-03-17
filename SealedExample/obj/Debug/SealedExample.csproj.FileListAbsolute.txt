@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\SealedExample\obj\Debug\SealedExample.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\SealedExample\bin\Debug\SealedExample.exe.config
+C:\Users\mkaze\source\repos\SealedExample\bin\Debug\SealedExample.exe
+C:\Users\mkaze\source\repos\SealedExample\bin\Debug\SealedExample.pdb
+C:\Users\mkaze\source\repos\SealedExample\obj\Debug\SealedExample.exe
+C:\Users\mkaze\source\repos\SealedExample\obj\Debug\SealedExample.pdb
