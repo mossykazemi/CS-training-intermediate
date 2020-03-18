@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\ShowMessageAndNumber\bin\Debug\ShowMessageAndNumber.exe.config
+C:\Users\mkaze\source\repos\ShowMessageAndNumber\bin\Debug\ShowMessageAndNumber.exe
+C:\Users\mkaze\source\repos\ShowMessageAndNumber\bin\Debug\ShowMessageAndNumber.pdb
+C:\Users\mkaze\source\repos\ShowMessageAndNumber\obj\Debug\ShowMessageAndNumber.exe
+C:\Users\mkaze\source\repos\ShowMessageAndNumber\obj\Debug\ShowMessageAndNumber.pdb
