@@ -8,6 +8,7 @@ namespace ShowMessageAndNumber
 {
     class Program
     {
+        //String using 
         static void showMessageAndNumber(string message,int number)
         {
             Console.WriteLine(message);
