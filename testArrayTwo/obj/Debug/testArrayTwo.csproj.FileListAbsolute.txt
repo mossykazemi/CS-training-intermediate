@@ -1,0 +1,5 @@
+C:\Users\mkaze\source\repos\testArrayTwo\bin\Debug\testArrayTwo.exe.config
+C:\Users\mkaze\source\repos\testArrayTwo\bin\Debug\testArrayTwo.exe
+C:\Users\mkaze\source\repos\testArrayTwo\bin\Debug\testArrayTwo.pdb
+C:\Users\mkaze\source\repos\testArrayTwo\obj\Debug\testArrayTwo.exe
+C:\Users\mkaze\source\repos\testArrayTwo\obj\Debug\testArrayTwo.pdb
