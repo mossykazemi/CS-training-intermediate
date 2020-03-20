@@ -23,7 +23,7 @@ namespace testArrayTwo
             {
                 Console.WriteLine(a);
             }
-            // araye khodesh refrence type hast va khod be khod call by ref khahad shod
+            // Array is Refrence Type ny it self and it's gonna be call by ref
             Console.ReadKey();
         }
     }
